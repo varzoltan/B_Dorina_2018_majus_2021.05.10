@@ -11,7 +11,7 @@ namespace B_Dorina_2018_majus_2021._05._10
     {
         struct Adat
         {
-            //public int ora;
+            public int ora;
             public int perc;
             public int azonosito;
             public string beki;
